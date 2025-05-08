@@ -871,7 +871,7 @@ button {
     letter-spacing: 0.04em;
     text-align: center;
     color: #fff;
-    margin: 0 auto 24px;
+    margin: 0 auto;
     cursor: pointer;
     transition-property: background-color;
     transition-duration: 250ms;
